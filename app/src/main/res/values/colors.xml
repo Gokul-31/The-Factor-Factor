@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="optionOrange">#039BE5</color>
+    <color name="background">#FBC02D</color>
+    <color name="best">#7CB342</color>
+    <color name="right">#76FF03</color>
+    <color name="wrong">#EF5350</color>
+    <color name="white">#FAFAFA</color>
+    <color name="black">#212121</color>
+    <color name="critical">#F44336</color>
+    <color name="score">#4DD0E1</color>
+</resources>

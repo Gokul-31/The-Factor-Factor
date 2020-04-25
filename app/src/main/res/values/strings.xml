@@ -1,0 +1,20 @@
+<resources>
+    <string name="enter_num">Enter a number</string>
+    <string name="num">Number</string>
+    <string name="submit">Submit</string>
+    <string name="option_c">option C</string>
+    <string name="option_b">option B</string>
+    <string name="option_a">option A</string>
+    <string name="right">Right Answer!!</string>
+    <string name="wrong">Wrong Answer!!</string>
+    <string name="space" />
+    <string name="highest_streak">Highest Streak:</string>
+    <string name="reset">reset</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="sp_file">Saved Storage</string>
+    <string name="save_best_key">Best score</string>
+    <string name="app_name">The Factor Factor</string>
+    <string name="score">Score:</string>
+    <string name="crt_ans">Every correct answer = 20 pts</string>
+    <string name="wrong_ans">Every wrong answer = -10 pts</string>
+</resources>
